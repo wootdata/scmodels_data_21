@@ -1,0 +1,9 @@
+Model hecho por Freakazoid! (podés encontrarme como Lugard)
+Objeto y textura extraídos de Digimon Masters por Key0808.
+Animaciones para el Sven Coop 4.8 con una animación personalizada.
+
+---------------------------------------------------------------
+
+Model made by Freakazoid! (aka Lugard)
+Mesh and textures extracted from Digimon Masters by Key0808.
+Animations made for Sven Coop 4.8 with one custom animation.

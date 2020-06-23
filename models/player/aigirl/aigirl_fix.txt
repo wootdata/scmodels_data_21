@@ -1,0 +1,1 @@
+Fix for Sven-coop 5.0 by Python : change walking T pose, new idle.
