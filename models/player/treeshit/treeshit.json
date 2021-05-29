@@ -1,1 +1,51 @@
-{"seq_groups": 1, "hash": "0ba373161e6524f898d7bddba639f65b", "tri_count": "147"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "tree1",
+					"polys": 147,
+					"verts": 113
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "0ba373161e6524f898d7bddba639f65b",
+	"name": "D:\\map models\\tree1\\tree1.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 31.000000,
+			"frames": 30,
+			"name": "idle-1"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "tree1",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 64,
+			"height": 256,
+			"name": "branch.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "bark.bmp",
+			"width": 64
+		}
+	],
+	"version": 10
+}

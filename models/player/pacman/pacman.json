@@ -1,1 +1,1116 @@
-{"seq_groups": 1, "hash": "e89cc06c0fc1916644485eaf6ff289b3", "tri_count": "130", "events": [{"seq": "8", "frame": "0", "file": "w00tguy/arcade/pman_fruit.wav"}, {"seq": "9", "frame": "0", "file": "w00tguy/arcade/pman_fruit.wav"}, {"seq": "12", "frame": "0", "file": "w00tguy/arcade/pman_die.wav"}, {"seq": "13", "frame": "0", "file": "w00tguy/arcade/pman_die.wav"}, {"seq": "14", "frame": "0", "file": "w00tguy/arcade/pman_die.wav"}, {"seq": "15", "frame": "0", "file": "w00tguy/arcade/pman_die.wav"}, {"seq": "16", "frame": "0", "file": "w00tguy/arcade/pman_die.wav"}, {"seq": "17", "frame": "0", "file": "w00tguy/arcade/pman_die.wav"}, {"seq": "18", "frame": "0", "file": "w00tguy/arcade/pman_die.wav"}]}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "pacman_ref",
+					"polys": 130,
+					"verts": 67
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "w00tguy/arcade/pman_fruit.wav",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "w00tguy/arcade/pman_fruit.wav",
+			"sequence": 9,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "w00tguy/arcade/pman_die.wav",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 9,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "w00tguy/arcade/pman_die.wav",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 13,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "w00tguy/arcade/pman_die.wav",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 15,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "w00tguy/arcade/pman_die.wav",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 8,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "w00tguy/arcade/pman_die.wav",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "w00tguy/arcade/pman_die.wav",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 16,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 0,
+			"options": "w00tguy/arcade/pman_die.wav",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 22,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "e89cc06c0fc1916644485eaf6ff289b3",
+	"name": "pacman.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "look_idle"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "idle"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "deep_idle"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "run2"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "walk2handed"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "2handshoot"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "crawl"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "jump"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "long_jump"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "swim"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "treadwater"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "die_simple"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "die_backwards1"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "die_backwards"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "die_forwards"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "headshot"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "die_spin"
+		}, 
+		{
+			"fps": 8.000000,
+			"frames": 24,
+			"name": "gutshot"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 48.000000,
+			"frames": 24,
+			"name": "eat"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 24,
+			"name": "deadback"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 24,
+			"name": "deadsitting"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 24,
+			"name": "deadstomach"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 24,
+			"name": "deadtable"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "joint2",
+			"parent": -1
+		}, 
+		{
+			"name": "joint3",
+			"parent": -1
+		}, 
+		{
+			"name": "joint4",
+			"parent": -1
+		}, 
+		{
+			"name": "joint5",
+			"parent": -1
+		}, 
+		{
+			"name": "joint6",
+			"parent": -1
+		}, 
+		{
+			"name": "joint7",
+			"parent": -1
+		}, 
+		{
+			"name": "joint8",
+			"parent": -1
+		}, 
+		{
+			"name": "joint9",
+			"parent": -1
+		}, 
+		{
+			"name": "joint10",
+			"parent": -1
+		}, 
+		{
+			"name": "joint11",
+			"parent": -1
+		}, 
+		{
+			"name": "joint12",
+			"parent": -1
+		}, 
+		{
+			"name": "joint13",
+			"parent": -1
+		}, 
+		{
+			"name": "joint14",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 16,
+			"name": "pacman.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 16,
+			"name": "black.bmp",
+			"width": 16
+		}
+	],
+	"version": 10
+}
