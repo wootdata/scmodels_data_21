@@ -25,32 +25,32 @@
 		{
 			"models": [
 				{
-					"name": "SC_male_torso_ref",
-					"polys": 2628,
-					"verts": 1186
+					"name": "HEV_male_torso_reference",
+					"polys": 2131,
+					"verts": 1085
 				}
 			],
-			"name": "torso"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "SC_cave_head_ref",
-					"polys": 2242,
-					"verts": 1167
+					"name": "HEV_helmet_head_reference",
+					"polys": 1472,
+					"verts": 770
 				}
 			],
-			"name": "head"
+			"name": "body"
 		}, 
 		{
 			"models": [
 				{
-					"name": "SC_male_legs_ref",
-					"polys": 916,
-					"verts": 509
+					"name": "HEV_male_legs_reference",
+					"polys": 1872,
+					"verts": 944
 				}
 			],
-			"name": "legs"
+			"name": "body"
 		}
 	],
 	"controllers": [
@@ -85,14 +85,6 @@
 			"rest": 0,
 			"start": -30.000000,
 			"type": 8
-		}, 
-		{
-			"bone": 28,
-			"end": 25.000000,
-			"index": 4,
-			"rest": 0,
-			"start": 0.000000,
-			"type": 32
 		}
 	],
 	"events": [
@@ -329,8 +321,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "e71a4fc5498c2a80c1ce0cb99c5d3708",
-	"name": "hevbarney.mdl",
+	"md5": "829470685f4df41f888abab9ae4f5809",
+	"name": "helmet.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1240,7 +1232,7 @@
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 1,
+			"frames": 42,
 			"name": "ShannonCaldwell_v1.2"
 		}, 
 		{
@@ -1289,7 +1281,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 2088392,
+	"size": 1332492,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1404,20 +1396,16 @@
 			"parent": 6
 		}, 
 		{
-			"name": "mouth",
-			"parent": 27
-		}, 
-		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 29
+			"parent": 28
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 30
+			"parent": 29
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1425,11 +1413,11 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 32
+			"parent": 31
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 33
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1437,21 +1425,9 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "hands.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 348,
-			"name": "chest.bmp",
-			"width": 404
-		}, 
-		{
-			"flags": 0,
-			"height": 65,
-			"name": "elbow.bmp",
-			"width": 128
+			"height": 384,
+			"name": "dm_base.bmp",
+			"width": 416
 		}, 
 		{
 			"flags": 3,
@@ -1460,57 +1436,33 @@
 			"width": 64
 		}, 
 		{
-			"flags": 0,
-			"height": 512,
-			"name": "Sven_HEV_Glove.bmp",
-			"width": 512
-		}, 
-		{
 			"flags": 3,
 			"height": 64,
 			"name": "Chrome_50Gry1.bmp",
 			"width": 64
 		}, 
 		{
-			"flags": 0,
+			"flags": 3,
 			"height": 64,
-			"name": "latex.bmp",
+			"name": "rubbergloveCHROME.bmp",
 			"width": 64
 		}, 
 		{
-			"flags": 64,
-			"height": 256,
-			"name": "sclogotrans.bmp",
-			"width": 256
+			"flags": 0,
+			"height": 32,
+			"name": "HEV_buttons.bmp",
+			"width": 16
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "bongocat.bmp",
+			"width": 128
 		}, 
 		{
 			"flags": 0,
 			"height": 256,
 			"name": "HEV_neck.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "mouth.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "johnson_head_diff2.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "eye.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 73,
-			"name": "knee.bmp",
 			"width": 256
 		}
 	],
