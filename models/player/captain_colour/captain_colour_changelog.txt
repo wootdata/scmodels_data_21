@@ -1,0 +1,215 @@
+captain_colour Notes:
+Version 1
+Animations:
+Went back to default Barney animations and added my own as seperate animations
+
+Cappie_V2 Notes:
+Version 2.8
+Mesh Amendment:
+Replaced missing face
+Correct two points assigned to wrong bone
+
+Animations Replaced:
+use_console_loop2.smd replaced by Da_PUMP_by_Gauna.smd
+ref_aim_gauss_blend01
+ref_aim_gauss_blend02
+ref_aim_egon_blend01
+ref_aim_egon_blend02
+crouch_shoot_wrench_blend01
+crouch_shoot_wrench_blend02
+crouch_shoot_uzis_right_blend01
+crouch_shoot_uzis_right_blend02
+crouch_shoot_uzis_left_blend01
+crouch_shoot_uzis_left_blend02
+crouch_shoot_uzis_both_blend01
+crouch_shoot_uzis_both_blend02
+crouch_shoot_trip_blend01
+crouch_shoot_trip_blend02
+crouch_shoot_saw_blend01
+crouch_shoot_saw_blend02
+
+Version 2.7
+Animations Replaced:
+action_wave.smd
+sitting.smd
+use_console_loop.smd
+crouch_shoot_shotgun_blend01.smd
+crouch_shoot_shotgun_blend02.smd
+crouch_shoot_sniper_blend01.smd
+crouch_shoot_sniper_blend02.smd
+crouch_shoot_sniperscope_blend01.smd
+crouch_shoot_sniperscope_blend02.smd
+crouch_shoot_squeak_blend01.smd
+crouch_shoot_squeak_blend02.smd
+
+Added Animation:
+Da_PUMP_by_Gauna.smd
+
+Version 2.6
+Animations Replaced:
+action_wave.smd - Reverted back to a wave
+sitting.smd
+crouch_shoot_gren_blend01.smd
+crouch_shoot_gren_blend02.smd
+crouch_shoot_hive_blend01.smd
+crouch_shoot_hive_blend02.smd
+crouch_shoot_m16_blend01.smd
+crouch_shoot_m16_blend02.smd
+crouch_shoot_m203_blend01.smd
+crouch_shoot_m203_blend02.smd
+crouch_shoot_minigun_blend01.smd
+crouch_shoot_minigun_blend02.smd
+crouch_shoot_mp5_blend01.smd
+crouch_shoot_mp5_blend02.smd
+crouch_shoot_onehanded_blend01.smd
+crouch_shoot_onehanded_blend02.smd
+crouch_shoot_python_blend01.smd
+crouch_shoot_python_blend02.smd
+crouch_aim_rpg_blend01.smd
+crouch_aim_rpg_blend02.smd
+crouch_shoot_rpg_blend01.smd
+crouch_shoot_rpg_blend02.smd
+Bitmaps modified
+unm_barney_body.bmp
+
+Version 2.5.1
+Animations Replaced:
+die_backwards.smd
+die_backwards1.smd
+
+Version 2.5
+Animations Replaced:
+die_backwards1.smd
+die_backwards.smd
+crouch_shoot_crowbar_blend02.smd
+crouch_aim_bowscope_blend01.smd
+crouch_aim_bowscope_blend02.smd
+crouch_aim_gauss_blend01.smd
+crouch_aim_gauss_blend02.smd
+crouch_aim_minigun_blend01.smd
+crouch_aim_minigun_blend02.smd
+crouch_aim_mp5_blend01.smd
+crouch_aim_mp5_blend02.smd
+crouch_aim_onehanded_blend01.smd
+crouch_aim_onehanded_blend02.smd
+crouch_aim_python_blend01.smd
+crouch_aim_python_blend02.smd
+crouch_aim_rpg_blend01.smd
+crouch_aim_rpg_blend02.smd
+crouch_aim_bow_blend01.smd
+crouch_aim_bow_blend02.smd
+crouch_aim_sniper_blend01.smd
+crouch_aim_sniper_blend02.smd
+crouch_aim_sniperscope_blend01.smd
+crouch_aim_sniperscope_blend02.smd
+crouch_aim_shotgun_blend01.smd
+crouch_aim_shotgun_blend02.smd
+crouch_aim_squeak_blend01.smd
+crouch_aim_squeak_blend02.smd
+crouch_aim_trip_blend01.smd
+crouch_aim_trip_blend02.smd
+crouch_aim_uzis_blend01.smd
+crouch_aim_uzis_blend02.smd
+crouch_cock_gren_blend01.smd
+crouch_cock_gren_blend02.smd
+crouch_cock_wrench_blend01.smd
+crouch_cock_wrench_blend02.smd
+crouch_draw_bow_blend01.smd
+crouch_draw_bow_blend02.smd
+crouch_draw_crowbar_blend01.smd
+crouch_draw_crowbar_blend02.smd
+crouch_shoot_crowbar_blend01.smd
+
+Version: 2.4
+Bitmaps modified
+helm.bmp
+Animations Replaced:
+deadstomach.smd
+swim.smd
+treadwater.smd
+use_console_loop.smd
+ref_aim_bow_blend01.smd
+ref_aim_bowscope_blend01.smd
+ref_aim_bow_blend02.smd
+ref_aim_bowscope_blend02.smd
+ref_aim_crowbar_blend01.smd
+ref_aim_crowbar_blend02.smd
+ref_shoot_crowbar_blend01.smd
+ref_shoot_crowbar_blend02.smd
+ref_cock_gren_blend01.smd
+ref_cock_gren_blend02.smd
+action_wave.smd
+ref_cock_wrench_blend01.smd
+ref_cock_wrench_blend02.smd
+
+
+Version: 2.3
+Amended Mesh to try and correct issues with thigh in crouch animations
+Replaced die_backwards animation with die_backwards1 animation
+Removed drone.ogg on death animations due to unexpected looping of sound on servers
+Amended following animations to try and deal with Thigh oddness:
+crouch_aim_bow_blend01
+crouch_cock_gren_blend01
+crouch_cock_gren_blend02
+crouch_cock_wrench_blend01
+crouch_cock_wrench_blend02
+
+Version: 2.2
+Bitmaps Modified
+unm_barney_body_vest.bmp
+Animations Replaced:
+crawl.smd
+idle.smd
+look_idle.smd
+deep_idle.smd
+long_jump.smd
+crouch_cock_gren_blend01.smd
+crouch_cock_gren_blend02.smd
+crouch_cock_wrench_blend01.smd
+crouch_cock_wrench_blend02.smd
+crouch_draw_bow_blend01.smd
+crouch_draw_bow_blend02.smd
+action_wave.smd
+crouch_draw_crowbar_blend01.smd
+crouch_draw_crowbar_blend02.smd
+
+Version: 2.1
+Bitmaps Modified
+logo.bmp
+Animations replaced:
+2handshoot.smd
+action_wave.smd
+cappie_v3_animation.ugh
+crouch_aim_bowscope_blend01.smd
+crouch_aim_bowscope_blend02.smd
+crouch_aim_bow_blend01.smd
+crouch_aim_bow_blend02.smd
+crouch_aim_gauss_blend01.smd
+crouch_aim_gauss_blend02.smd
+crouch_aim_minigun_blend01.smd
+crouch_aim_minigun_blend02.smd
+crouch_aim_mp5_blend01.smd
+crouch_aim_mp5_blend02.smd
+crouch_aim_onehanded_blend01.smd
+crouch_aim_onehanded_blend02.smd
+crouch_aim_python_blend01.smd
+crouch_aim_python_blend02.smd
+crouch_aim_rpg_blend01.smd
+crouch_aim_rpg_blend02.smd
+crouch_aim_shotgun_blend01.smd
+crouch_aim_shotgun_blend02.smd
+crouch_aim_sniperscope_blend01.smd
+crouch_aim_sniperscope_blend02.smd
+crouch_aim_sniper_blend01.smd
+crouch_aim_sniper_blend02.smd
+crouch_aim_squeak_blend01.smd
+crouch_aim_squeak_blend02.smd
+crouch_aim_trip_blend01.smd
+crouch_aim_trip_blend02.smd
+crouch_aim_uzis_blend01.smd
+crouch_aim_uzis_blend02.smd
+Added Sounds:
+coconut.ogg
+drone.ogg
+Amended Sounds:
+All .ogg files
