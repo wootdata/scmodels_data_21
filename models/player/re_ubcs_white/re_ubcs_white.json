@@ -27,7 +27,7 @@
 				{
 					"name": "terror",
 					"polys": 1509,
-					"verts": 801
+					"verts": 800
 				}
 			],
 			"name": "body"
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "cd5aafcde76078a903125d44ed7543e1",
-	"name": "RE_UBCS_White.mdl",
+	"md5": "f9c3b058a7bb8225118d4b35330d2052",
+	"name": "C:\\Program Files\\Steam\\steamapps\\marb250\\half-life\\SvenCoop\\mode",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,7 +1216,7 @@
 			"name": "ShannonCaldwell_v1.2"
 		}
 	],
-	"size": 1105652,
+	"size": 1117096,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1312,15 +1312,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 503,
+			"height": 512,
 			"name": "terror_body.bmp",
-			"width": 504
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 247,
+			"height": 256,
 			"name": "terror_head3.bmp",
-			"width": 252
+			"width": 256
 		}
 	],
 	"version": 10
