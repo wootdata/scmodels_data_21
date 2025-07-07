@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "580dc17714a20c6bab3cd35ee1bb49a1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\models\\Anya\\Anya.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

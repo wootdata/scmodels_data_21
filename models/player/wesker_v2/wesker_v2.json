@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "39c46bf0a623607d45888f286870d446",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Unzipped\\[528]Matrix_pack\\TerroristMO2\\TerroristMO2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

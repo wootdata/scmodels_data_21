@@ -193,6 +193,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -800,7 +801,11 @@
 	],
 	"id": 1414743113,
 	"md5": "54e904b18bef8af95e8549c258969284",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GL_amber.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

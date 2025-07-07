@@ -43,6 +43,7 @@
 			"name": "redgato"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9b296660366f7a4fb1b56d77e4b8c3ff",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RED_helmet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

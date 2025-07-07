@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -352,7 +353,11 @@
 	],
 	"id": 1414743113,
 	"md5": "01141b3404663e498d77fffa365570dc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ija_rifleman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5e78da8ae39eec5021cff59ea73a8d85",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RE_STARS_Danielle.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

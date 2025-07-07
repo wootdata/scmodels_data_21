@@ -173,6 +173,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -443,7 +444,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b6d3c2584a82ff2cbd9628c3392f6476",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "YoRHa_2B.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

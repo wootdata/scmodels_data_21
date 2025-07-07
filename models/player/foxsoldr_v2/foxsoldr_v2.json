@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 22,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "919b014418d9c3203c487e7128db1aa3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "foxsoldr.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

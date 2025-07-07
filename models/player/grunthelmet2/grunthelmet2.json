@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "711d4270effa7f77806e0357658ef6d2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GruntHelmet2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

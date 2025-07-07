@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dc92d65ea9232e31618d3f0eb8e13b64",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "re_ubcs_hispanic.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -118,6 +118,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 5,
@@ -388,7 +389,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f589f892b8480fd40c2e93dd5e05f726",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "rebelpilot.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

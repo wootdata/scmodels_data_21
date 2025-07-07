@@ -83,6 +83,7 @@
 			"name": "flan_group6"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1690065668,
 	"events": [
@@ -320,7 +321,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d42bfeb357f9def57f3e37f0ca8a283d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "touhou_flan_fumo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

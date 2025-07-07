@@ -73,6 +73,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2800916b9845cb8fc77fe0660f3a3fe3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "giacomo.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

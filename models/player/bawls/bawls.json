@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 4,
@@ -737,7 +738,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6dbd212bff5a71a37f2417981b34486c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Models\\BAWLS.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

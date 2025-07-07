@@ -88,6 +88,7 @@
 			"name": "detail"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 12,
@@ -478,7 +479,11 @@
 	],
 	"id": 1414743113,
 	"md5": "19720b1f0799308275c75450f9920386",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "XInuYasha.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

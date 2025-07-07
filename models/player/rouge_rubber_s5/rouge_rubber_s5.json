@@ -33,6 +33,7 @@
 			"name": "Rouge_the_Bat"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -422,7 +423,11 @@
 	],
 	"id": 1414743113,
 	"md5": "959775260f4bd10f066949bb9658f69a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "rouge.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -422,7 +423,11 @@
 	],
 	"id": 1414743113,
 	"md5": "eb299e0697d712c4bcd7798756fdc5d7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "captain_colour.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -73,6 +73,7 @@
 			"name": "Body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -343,7 +344,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dfb3ee23c4008fbd63ae18c2b5bb2852",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "wesker_stars.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

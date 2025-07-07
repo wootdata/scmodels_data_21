@@ -203,6 +203,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -483,7 +484,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c8d4a4ad513bcdd768812c6e055b8930",
+	"metahook_external": true,
+	"metahook_ragdoll": false,
 	"name": "Arknights_Ansel.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

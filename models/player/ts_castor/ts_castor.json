@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -310,7 +311,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cac1e07c9a531e2ede493d02d5008ac9",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ts_castor.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 15,
@@ -465,7 +466,11 @@
 	],
 	"id": 1414743113,
 	"md5": "1518997dc31957501ffabb7b3b02c5d7",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "luigi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

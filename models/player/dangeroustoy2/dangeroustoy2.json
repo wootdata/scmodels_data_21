@@ -113,6 +113,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -419,7 +420,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3484af9cb3cbfbc42f7d3e6b0f8f7268",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dangeroustoy2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

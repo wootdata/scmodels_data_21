@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -650,7 +651,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b7ed88a8932a7bf6e11eccddd6a836da",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ba_atsuko.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

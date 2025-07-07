@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -290,7 +291,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8b310dd6d33ac8a57d021b935a16f8c0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier_tower.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

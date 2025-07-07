@@ -17,4 +17,7 @@ I asked Rewolf for permission to distribute this model.  Rewolf has said that th
 2.  The model is used for Half-Life only.
 
 
-
+---------------
+aigirl_fix.txt
+---------------
+Fix for Sven-coop 5.0 by Python : change walking T pose, new idle.

@@ -243,6 +243,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -523,7 +524,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9de22fd67f98bb8184980d8b8d96ac2b",
+	"metahook_external": true,
+	"metahook_ragdoll": false,
 	"name": "cookie_diyusi.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

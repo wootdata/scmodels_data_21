@@ -173,6 +173,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -789,7 +790,11 @@
 	],
 	"id": 1414743113,
 	"md5": "97e76f7bf0ac2b88ec00e4f3fe4de9b3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gf_ump40_ld.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

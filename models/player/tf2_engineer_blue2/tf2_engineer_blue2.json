@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -379,7 +380,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b842e631862ed877e9619c66e320669f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tf2_engineer_blue.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

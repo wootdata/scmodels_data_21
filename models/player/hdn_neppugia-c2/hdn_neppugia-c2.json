@@ -82,6 +82,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -794,7 +795,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e0b0f4ae37723cc609c6a4f52ee1ddc1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "HDN_Neppugia.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

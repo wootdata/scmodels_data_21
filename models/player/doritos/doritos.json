@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c6d40dd388bbc9ac0a64bfb16e6b4f62",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\theor\\Documents\\Projects\\Blender\\doritos\\base\\dorito.md`",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

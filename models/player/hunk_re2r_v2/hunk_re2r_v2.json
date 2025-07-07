@@ -223,6 +223,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -598,7 +599,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ac12f45625b5f85781dea0ac90cbe2b0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hunk_re2r.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

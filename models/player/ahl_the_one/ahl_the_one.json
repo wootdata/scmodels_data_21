@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 34,
@@ -303,7 +304,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8a9ee57bf989a816a632f4985d621271",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "the_one.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

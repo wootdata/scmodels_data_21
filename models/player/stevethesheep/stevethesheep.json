@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 5,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3e15acfc322e37d86ee66ffd02c476a4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\SLeNd\\Desktop\\steeve\\steeve.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
