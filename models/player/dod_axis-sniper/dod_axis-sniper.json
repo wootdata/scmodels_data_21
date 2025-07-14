@@ -291,6 +291,7 @@
 	"md5": "685efa203299acff1903394c127bd744",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "../compiled/dod_axis-sniper.mdl",
 	"preview": true,
 	"readme": false,

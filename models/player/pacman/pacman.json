@@ -133,6 +133,7 @@
 	"md5": "e89cc06c0fc1916644485eaf6ff289b3",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "pacman.mdl",
 	"preview": true,
 	"readme": false,
