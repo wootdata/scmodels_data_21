@@ -232,7 +232,7 @@
 			"type": 8
 		}
 	],
-	"date": 1697314157,
+	"date": 1780811530,
 	"events": [
 		{
 			"event": 5004,
@@ -792,6 +792,7 @@
 	"md5": "97e76f7bf0ac2b88ec00e4f3fe4de9b3",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "gf_ump40_ld.mdl",
 	"preview": true,
 	"readme": false,

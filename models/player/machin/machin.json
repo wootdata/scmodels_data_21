@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1589092278,
+	"date": 1780811530,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "58fac7b9351e4071199ef1b3f891645d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "machin.mdl",
 	"preview": true,
 	"readme": false,

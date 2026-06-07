@@ -102,7 +102,7 @@
 			"type": 8
 		}
 	],
-	"date": 1702239312,
+	"date": 1780811530,
 	"events": [
 		{
 			"event": 5004,
@@ -774,6 +774,7 @@
 	"md5": "1c1467f63e806c441947d4588c96728b",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "Vtuber_Kizuna_black.mdl",
 	"preview": true,
 	"readme": false,

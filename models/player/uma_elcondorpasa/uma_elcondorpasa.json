@@ -6,16 +6,6 @@
 			"type": 0
 		}, 
 		{
-			"bone": 14,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 14,
-			"name": "",
-			"type": 0
-		}, 
-		{
 			"bone": 10,
 			"name": "",
 			"type": 0
@@ -25,132 +15,52 @@
 		{
 			"models": [
 				{
-					"name": "null",
-					"polys": 240,
-					"verts": 83
+					"name": "2",
+					"polys": 2216,
+					"verts": 1291
 				}
 			],
-			"name": "body"
+			"name": "studio"
 		}, 
 		{
 			"models": [
 				{
 					"name": "1",
-					"polys": 2274,
-					"verts": 1148
+					"polys": 2536,
+					"verts": 1416
 				}
 			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "2",
-					"polys": 1059,
-					"verts": 648
-				}
-			],
-			"name": "body"
+			"name": "studio"
 		}, 
 		{
 			"models": [
 				{
 					"name": "3",
-					"polys": 1332,
-					"verts": 670
+					"polys": 3143,
+					"verts": 1594
 				}
 			],
-			"name": "body"
+			"name": "studio"
 		}, 
 		{
 			"models": [
 				{
 					"name": "4",
-					"polys": 2037,
-					"verts": 1125
+					"polys": 2935,
+					"verts": 1409
 				}
 			],
-			"name": "body"
+			"name": "studio"
 		}, 
 		{
 			"models": [
 				{
 					"name": "5",
-					"polys": 1474,
-					"verts": 760
+					"polys": 2932,
+					"verts": 1526
 				}
 			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "6",
-					"polys": 894,
-					"verts": 600
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "7",
-					"polys": 2764,
-					"verts": 1697
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "8",
-					"polys": 2699,
-					"verts": 1411
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "9",
-					"polys": 1886,
-					"verts": 963
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "10",
-					"polys": 2096,
-					"verts": 1151
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "11",
-					"polys": 68,
-					"verts": 45
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "12",
-					"polys": 68,
-					"verts": 45
-				}
-			],
-			"name": "body"
+			"name": "studio"
 		}
 	],
 	"colorable": false,
@@ -194,40 +104,10 @@
 			"rest": 0,
 			"start": 0.000000,
 			"type": 32
-		}, 
-		{
-			"bone": 31,
-			"end": 15.000000,
-			"index": 1,
-			"rest": 0,
-			"start": -15.000000,
-			"type": 8
-		}, 
-		{
-			"bone": 32,
-			"end": 15.000000,
-			"index": 1,
-			"rest": 0,
-			"start": -15.000000,
-			"type": 8
 		}
 	],
-	"date": 1780811530,
+	"date": 1777848536,
 	"events": [
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/jump.wav",
-			"sequence": 8,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/jump2.wav",
-			"sequence": 9,
-			"type": 0
-		}, 
 		{
 			"event": 2001,
 			"frame": 10,
@@ -279,93 +159,16 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/barbara/weapget_meel.wav",
-			"sequence": 19,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/barbara/weapget_meel.wav",
-			"sequence": 22,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/charge.wav",
-			"sequence": 25,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/bash.wav",
+			"options": "",
 			"sequence": 27,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/barbara/charge.wav",
-			"sequence": 28,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/bash.wav",
+			"options": "",
 			"sequence": 30,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/weapget_gren.wav",
-			"sequence": 31,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 3,
-			"options": "player/playersounds/barbara/shoot2.wav",
-			"sequence": 35,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/barbara/weapget_gren.wav",
-			"sequence": 36,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/barbara/shoot2.wav",
-			"sequence": 40,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/barbara/weapget_trip.wav",
-			"sequence": 41,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/barbara/weapget_trip.wav",
-			"sequence": 44,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/barbara/weapget1.wav",
-			"sequence": 47,
 			"type": 0
 		}, 
 		{
@@ -378,8 +181,8 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/barbara/weapget1.wav",
-			"sequence": 51,
+			"options": "",
+			"sequence": 50,
 			"type": 0
 		}, 
 		{
@@ -387,13 +190,6 @@
 			"frame": 0,
 			"options": "21",
 			"sequence": 53,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/weapget1.wav",
-			"sequence": 55,
 			"type": 0
 		}, 
 		{
@@ -406,8 +202,8 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/barbara/weapget1.wav",
-			"sequence": 59,
+			"options": "",
+			"sequence": 58,
 			"type": 0
 		}, 
 		{
@@ -420,8 +216,8 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/barbara/weapget2.wav",
-			"sequence": 63,
+			"options": "",
+			"sequence": 62,
 			"type": 0
 		}, 
 		{
@@ -432,24 +228,10 @@
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/weapget2.wav",
-			"sequence": 67,
-			"type": 0
-		}, 
-		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
 			"sequence": 69,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/weapget3.wav",
-			"sequence": 71,
 			"type": 0
 		}, 
 		{
@@ -460,24 +242,10 @@
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/weapget3.wav",
-			"sequence": 74,
-			"type": 0
-		}, 
-		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
 			"sequence": 76,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/weapget2.wav",
-			"sequence": 77,
 			"type": 0
 		}, 
 		{
@@ -490,8 +258,8 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/barbara/weapget2.wav",
-			"sequence": 81,
+			"options": "",
+			"sequence": 80,
 			"type": 0
 		}, 
 		{
@@ -503,23 +271,9 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/barbara/shoot.wav",
-			"sequence": 87,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/barbara/shoot.wav",
-			"sequence": 91,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/barbara/weapget2.wav",
-			"sequence": 105,
+			"frame": 1,
+			"options": "",
+			"sequence": 84,
 			"type": 0
 		}, 
 		{
@@ -530,24 +284,10 @@
 			"type": 0
 		}, 
 		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/barbara/weapget2.wav",
-			"sequence": 108,
-			"type": 0
-		}, 
-		{
 			"event": 5021,
 			"frame": 0,
 			"options": "51",
 			"sequence": 110,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/weapget1.wav",
-			"sequence": 111,
 			"type": 0
 		}, 
 		{
@@ -562,20 +302,6 @@
 			"frame": 0,
 			"options": "51",
 			"sequence": 115,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/barbara/shoot.wav",
-			"sequence": 115,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/weapget1.wav",
-			"sequence": 117,
 			"type": 0
 		}, 
 		{
@@ -594,44 +320,23 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/barbara/shoot.wav",
-			"sequence": 121,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/barbara/weapget_rare.wav",
-			"sequence": 123,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/barbara/weapget_rare.wav",
-			"sequence": 126,
+			"frame": 1,
+			"options": "",
+			"sequence": 122,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/barbara/weapget2.wav",
-			"sequence": 129,
+			"options": "",
+			"sequence": 136,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/barbara/weapget2.wav",
-			"sequence": 137,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/barbara/weapget2.wav",
-			"sequence": 145,
+			"options": "",
+			"sequence": 144,
 			"type": 0
 		}, 
 		{
@@ -643,16 +348,16 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/barbara/shoot.wav",
-			"sequence": 148,
+			"frame": 1,
+			"options": "",
+			"sequence": 149,
 			"type": 0
 		}, 
 		{
 			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/barbara/weapget2.wav",
-			"sequence": 151,
+			"frame": 1,
+			"options": "",
+			"sequence": 150,
 			"type": 0
 		}, 
 		{
@@ -664,9 +369,16 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/barbara/shoot.wav",
-			"sequence": 154,
+			"frame": 1,
+			"options": "",
+			"sequence": 155,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "",
+			"sequence": 156,
 			"type": 0
 		}, 
 		{
@@ -685,9 +397,9 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/barbara/shoot.wav",
-			"sequence": 161,
+			"frame": 1,
+			"options": "",
+			"sequence": 162,
 			"type": 0
 		}, 
 		{
@@ -706,16 +418,9 @@
 		}, 
 		{
 			"event": 5004,
-			"frame": 0,
-			"options": "player/playersounds/barbara/shoot.wav",
-			"sequence": 167,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 2,
-			"options": "player/playersounds/barbara/weapget3.wav",
-			"sequence": 169,
+			"frame": 1,
+			"options": "",
+			"sequence": 168,
 			"type": 0
 		}, 
 		{
@@ -728,8 +433,8 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/barbara/weapget3.wav",
-			"sequence": 173,
+			"options": "",
+			"sequence": 172,
 			"type": 0
 		}, 
 		{
@@ -742,38 +447,17 @@
 		{
 			"event": 5004,
 			"frame": 1,
-			"options": "player/playersounds/barbara/bchit.wav",
-			"sequence": 182,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 66,
-			"options": "player/playersounds/barbara/bc.wav",
-			"sequence": 183,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 1,
-			"options": "player/playersounds/barbara/bcbite1.wav",
-			"sequence": 184,
-			"type": 0
-		}, 
-		{
-			"event": 5004,
-			"frame": 34,
-			"options": "player/playersounds/barbara/bcbite2.wav",
-			"sequence": 184,
+			"options": "",
+			"sequence": 176,
 			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "829d40ae65b352f4b09d159af9674a1c",
+	"md5": "1c4f844c7f2195fc5562183f9fa7339e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"modid": 7,
-	"name": "GI_Barbara.mdl",
+	"modid": 5,
+	"name": "Uma_ElCondorPasa.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -781,7 +465,7 @@
 		{
 			"fps": 14.000000,
 			"frames": 52,
-			"name": "By_Kazamii"
+			"name": "By_QuasaR"
 		}, 
 		{
 			"fps": 14.000000,
@@ -790,7 +474,7 @@
 		}, 
 		{
 			"fps": 12.000000,
-			"frames": 52,
+			"frames": 31,
 			"name": "deep_idle"
 		}, 
 		{
@@ -855,7 +539,7 @@
 		}, 
 		{
 			"fps": 26.000000,
-			"frames": 34,
+			"frames": 20,
 			"name": "die_forwards"
 		}, 
 		{
@@ -865,7 +549,7 @@
 		}, 
 		{
 			"fps": 30.000000,
-			"frames": 55,
+			"frames": 21,
 			"name": "die_spin"
 		}, 
 		{
@@ -1665,28 +1349,23 @@
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 4,
+			"frames": 3,
 			"name": "deadback"
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 4,
+			"frames": 3,
 			"name": "deadsitting"
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 3,
+			"frames": 2,
 			"name": "deadstomach"
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 3,
+			"frames": 2,
 			"name": "deadtable"
-		}, 
-		{
-			"fps": 10.000000,
-			"frames": 81,
-			"name": "ShannonCaldwell_v1.2"
 		}, 
 		{
 			"fps": 20.000000,
@@ -1707,34 +1386,9 @@
 			"fps": 15.000000,
 			"frames": 36,
 			"name": "barnaclechew"
-		}, 
-		{
-			"fps": 30.000000,
-			"frames": 91,
-			"name": "Convert_By_Kazamii"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 52,
-			"name": "Random Sitonchair"
-		}, 
-		{
-			"fps": 14.000000,
-			"frames": 52,
-			"name": "Random idle_armed"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 152,
-			"name": "Random Animation xDD"
-		}, 
-		{
-			"fps": 12.000000,
-			"frames": 82,
-			"name": "Random stretch body"
 		}
 	],
-	"size": 4873360,
+	"size": 2284416,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1813,72 +1467,24 @@
 			"parent": 17
 		}, 
 		{
+			"name": "Bip01 L Toe0",
+			"parent": 18
+		}, 
+		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 R Foot",
 			"parent": 20
 		}, 
 		{
-			"name": "Bip22 L knee2-smooth",
-			"parent": 16
+			"name": "Bip01 R Foot",
+			"parent": 21
 		}, 
 		{
-			"name": "Bip22 L knee1-smooth",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip22 R knee2-smooth",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip22 R knee1-smooth",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip22 L Leg-smooth2",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip22 R Leg-smooth2",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip22 L Leg-smooth1",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip22 R Leg-smooth1",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip22 Head_helper",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip22 Head_eyes_l",
-			"parent": 30
-		}, 
-		{
-			"name": "Bip22 Head_eyes_r",
-			"parent": 30
-		}, 
-		{
-			"name": "Bip22 L elbow1-smooth",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip22 R elbow1-smooth",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip22 R elbow2-smooth",
-			"parent": 12
+			"name": "Bip01 R Toe0",
+			"parent": 22
 		}
 	],
 	"skins": 1,
@@ -1886,33 +1492,33 @@
 	"textures": [
 		{
 			"flags": 1,
+			"height": 512,
+			"name": "tex_tail0001_00_1014_diff.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 4,
 			"height": 256,
-			"name": "null.bmp",
-			"width": 256
+			"name": "eye.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 1,
-			"height": 1024,
-			"name": "body1.bmp",
-			"width": 1024
+			"height": 512,
+			"name": "hair.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 1,
-			"height": 1024,
-			"name": "face1.bmp",
-			"width": 1024
+			"height": 512,
+			"name": "tex_chr1014_00_face_diff.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 1,
-			"height": 1024,
-			"name": "hair1.bmp",
-			"width": 1024
-		}, 
-		{
-			"flags": 69,
-			"height": 256,
-			"name": "glow.bmp",
-			"width": 256
+			"height": 512,
+			"name": "bdy.bmp",
+			"width": 512
 		}
 	],
 	"version": 10
